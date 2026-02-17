@@ -1,4 +1,4 @@
-# Creative Coding TOC
+# Creative Coding and Projects
 
 A list of projects to explore physics and creative coding. 
 
@@ -8,3 +8,6 @@ A list of projects to explore physics and creative coding.
  
 - Mathematics
   - [Duffing Oscillator Solution](differential-equation-animation/the-duffing-oscillator.ipynb)
+
+- Audiovisual
+- [Cosmic Interlude of The Nebular Web](Cosmic_Interlude)
