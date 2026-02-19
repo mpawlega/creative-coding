@@ -8,7 +8,7 @@ TouchDesigner & Photoshop
 OVERVIEW
 
 Cosmic Interlude of the Nebular Web explores interconnectedness through a dynamic cosmic environment. Clouds of dust and stars move together 
-in a shared system, creating ripples across a responsive cosmic grid. A surrounding galaxy space with vibrant color and light effects
+in a shared system, creating ripples across a responsive cosmic grid. A surrounding galaxy space with vibrant colour and light effects
 emphasizes scale, coexistence, and interaction.
 
 The project reflects on how elements of vastly different sizes—galaxies, stars, particles, and humans—each contribute meaningfully to the formation 
@@ -35,31 +35,30 @@ This is the final TouchDesigner project file containing:
 REQUIREMENTS
 
 * TouchDesigner
-* Augmenta Simulator Unity Addon (if using interaction)
-  Download: Augmenta-tech (GitHub Releases)
-  [https://github.com/Augmenta-tech/Augmenta-Simulator/releases](https://github.com/Augmenta-tech/Augmenta-Simulator/releases)
+* Augmenta Simulator Unity Addon
+  Download: Augmenta-tech (GitHub Releases) (https://github.com/Augmenta-tech/Augmenta-Simulator/releases)
 
 ==================================================
 
 FILES INCLUDED / NEEDED
 
 * FINE_247_Project_3_Final_Eye_Pool.toe
-* NASA Exoplanet audio file (if not embedded in the .toe project)
-* Augmenta_Input wth SOPS.tox
+* NASA Exoplanet audio file 
+* Augmenta_Input_with_SOPS.tox
 
 ==================================================
 
 INSTALLATION
 
 1. Install TouchDesigner.
-2. Download and install the Augmenta Simulator Unity Addon (if interaction is required).
+2. Download and install the Augmenta Simulator Unity Addon.
 3. Open FINE_247_Project_3_Final_Eye_Pool.toe in TouchDesigner.
-4. Confirm the audio file path and Augmenta Simulator path is correctly linked (if external).
+4. Confirm that the audio file path and Augmenta Simulator path are correctly linked.
 
 ==================================================
 
 USAGE
 
 Run the project from within TouchDesigner. If using Augmenta interaction, ensure the simulator 
-is properly configured and running before starting the TouchDesigner file. Ensure Augmenta_Input container
-External .tox Path points to Augmenta Simulator file "Augmenta_Input wth SOPS.tox".
+is properly configured and running. Ensure Augmenta_Input container
+External .tox Path points to Augmenta Simulator file "Augmenta_Input_with_SOPS.tox".
