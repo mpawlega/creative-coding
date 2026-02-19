@@ -10,4 +10,8 @@ A list of projects to explore physics and creative coding.
   - [Duffing Oscillator Solution](differential-equation-animation/the-duffing-oscillator.ipynb)
 
 - Audiovisual
-  - [Cosmic Interlude of The Nebular Web](Cosmic_Interlude)
+  - [Cosmic Interlude of The Nebular Web](cosmic-interlude)
+ 
+- Processing
+  - [Collision MIDI](collision-MIDI)
+  - [Floating Points](floating-points)
